@@ -8,5 +8,5 @@ Analysis of 2023 NHIS data comparing health outcomes by nativity and citizenship
 - Mental health disparities worsen with longer U.S. residence.
 
 ## Files
-- `comparing_us_foreign_born2.Rmd`: Full R Markdown analysis
+- `comparing_us_foreign_born.Rmd`: Full R Markdown analysis
 - `adult23.csv`: NHIS dataset (sample)
